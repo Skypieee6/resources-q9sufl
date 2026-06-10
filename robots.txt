@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Skypieee6.github.io/resources-q9sufl/sitemap.xml
